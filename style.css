@@ -49,7 +49,7 @@ body{
   font-weight:400;
   color: var(--clr-slate-500);
   margin-bottom: 24px;
-  padding-inline:1.5rem;
+  padding-inline:.75rem;
   font-size: 0.938rem;
   line-height: 1.375rem;
   letter-spacing: .65px;
